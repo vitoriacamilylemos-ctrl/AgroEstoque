@@ -60,3 +60,5 @@ temas-projetos/
 
 # Copia antiga do formulario
 components/frm-cad-aluno copy.tsx
+
+.firebase/

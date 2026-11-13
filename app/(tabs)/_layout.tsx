@@ -30,7 +30,7 @@ export default function TabLayout() {
       />
 
       <Tabs.Screen
-        name="aluno"
+        name="insumo"
         options={{
           title: 'Cadastro',
           tabBarIcon: ({ color }) => (
